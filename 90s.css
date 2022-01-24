@@ -48,3 +48,8 @@ nav a {
     background-color: black;
     color: white;
   }
+
+  footer {
+      margin: 10px;
+     padding-top: 200px;
+  }
